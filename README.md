@@ -1,6 +1,6 @@
 # Chat App (FastAPI + Vanilla JS)
 
-이 프로젝트는 **FastAPI**와 **Vanilla JavaScript (HTML, CSS, JS)**를 사용하여 만든 간단한 채팅 웹 애플리케이션입니다.
+이 프로젝트는 **FastAPI**와 **Vanilla JavaScript (HTML, CSS, JS)** 를 사용하여 만든 간단한 채팅 웹 애플리케이션입니다.
 
 ## 📌 기능
 - **회원가입 및 로그인** (JWT 인증 사용)
