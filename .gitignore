@@ -172,3 +172,25 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# 빌드 출력 디렉토리
+public/build/
+
+# Svelte 컴파일 결과물
+*.rpt2_cache/
+*.svelte-kit/
+
+# 로그 파일
+*.log
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 환경 변수 파일
+.env
