@@ -21,7 +21,11 @@ uvicorn main:app --reload
 ```
 
 ### 2. 프론트엔드 실행
-그냥 `index.html` 파일을 브라우저에서 열면 됩니다.
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
 ## 📌 API 문서
 FastAPI의 자동 문서를 사용하여 API 엔드포인트를 확인할 수 있습니다:
